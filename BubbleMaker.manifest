@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"477e0c40-0c0e-4f51-a9c6-1c44e990c7f1",
+	"author":	"Tomas Grubliauskas",
+	"description":	{
+		"":	"Generates a bubble/cloud like texture on a selected surface."
+	},
+	"version":	"1.0.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
